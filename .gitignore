@@ -1,0 +1,29 @@
+# Vitis / FPGA build outputs
+build/
+_x/
+.Xil/
+*.xo
+*.xclbin
+*.ltx
+*.log
+*.jou
+*.str
+*.wdb
+*.wcfg
+
+# Local datasets and downloaded archives
+data/VGG/
+data/*.tar.gz
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.swp
+*~
