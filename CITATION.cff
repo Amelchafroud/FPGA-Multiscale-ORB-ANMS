@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "FPGA Multiscale ORB Keypoint Extraction with Adaptive Non-Maximum Suppression"
+type: software
+authors:
+  - family-names: "Chafroud"
+    given-names: "Amel"
+    orcid: "https://orcid.org/0000-0003-3620-7655"
+repository-code: "https://github.com/Amelchafroud/FPGA-Multiscale-ORB-ANMS"
